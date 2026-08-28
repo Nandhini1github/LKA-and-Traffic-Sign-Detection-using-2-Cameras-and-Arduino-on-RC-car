@@ -1,0 +1,13 @@
+# MATLAB editor and generated build artifacts
+*.asv
+*.m~
+slprj/
+codegen/
+work/
+
+# Runtime camera diagnostic
+diag_frame_v10.png
+
+# Local training data (keep datasets outside version control)
+cifar-10-batches-mat/
+training-images/
